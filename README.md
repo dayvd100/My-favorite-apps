@@ -12,3 +12,7 @@
 
 - `npm install`
 - `npm run dev`
+
+## Description
+
+### This is a system that I will use to gather everything I use in my workday
